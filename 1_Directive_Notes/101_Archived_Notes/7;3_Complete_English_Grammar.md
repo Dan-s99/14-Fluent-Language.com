@@ -1,0 +1,213 @@
+---
+name: 7;3_Complete_English_Grammar
+description: Índice extraído de The Farlex Grammar Book: Complete English Grammar Rules para usarlo como referencia curricular.
+independence: Encapsulated
+---
+
+Esta nota conserva únicamente el índice del libro para poder reutilizar su secuencia temática como referencia de diseño curricular.
+
+#   Principles of cohesion and coupling / scope
+
+##    Cohesion
+
+- Conservar el índice del libro en una nota reusable y fácil de consultar.
+- Preservar el orden temático original sin reinterpretarlo como plan de clase.
+- Servir como apoyo para decisiones posteriores de temario, secuencia y cobertura gramatical.
+
+##    Coupling
+
+- Complementa `7,2_book-sources.md` como extracción directa de contenido del libro recomendado.
+- Puede alimentar futuras notas sobre programa maestro, bloques de clase y mapeo curricular.
+- No sustituye el libro fuente ni sus explicaciones; solo concentra su índice.
+
+#   Extracted index
+
+- About the author
+- Preface
+- Editor's Note
+- English Grammar
+- Parts of Speech
+- Nouns
+- Common and Proper Nouns
+- Nouns of Address
+- Concrete and Abstract Nouns
+- Countable Nouns
+- Uncountable Nouns
+- Collective Nouns
+- Compound Nouns
+- Nominalization (Creating Nouns)
+- Pronouns
+- Personal pronouns
+- Personal Pronouns - Number
+- Personal Pronouns - Person (First person, Second person, Third person)
+- Personal Pronouns - Gender
+- Personal Pronouns - Case
+- Personal Pronouns - Reflexive Pronouns
+- Intensive Pronouns
+- Indefinite Pronouns
+- Demonstrative Pronouns
+- Interrogative Pronouns
+- Relative Pronouns
+- Reciprocal Pronouns
+- Dummy Pronouns
+- Verbs
+- Finite and Non-finite Verbs
+- Transitive and Intransitive Verbs
+- Regular and Irregular Verbs
+- Auxiliary Verbs
+- Primary Auxiliary Verbs
+- Modal Auxiliary Verbs
+- Modal Auxiliary Verbs - Will
+- Modal Auxiliary Verbs - Would
+- Modal Auxiliary Verbs - Shall
+- Modal Auxiliary Verbs - Should
+- Modal Auxiliary Verbs - Can
+- Modal Auxiliary Verbs - Could
+- Modal Auxiliary Verbs - May
+- Modal Auxiliary Verbs - Might
+- Modal Auxiliary Verbs - Must
+- Substituting Modal Verbs
+- Semi-Modal Auxiliary Verbs
+- Infinitives
+- Participles
+- Action Verbs
+- Stative Verbs
+- Linking Verbs
+- Light Verbs
+- Phrasal Verbs
+- Common Phrasal Verbs
+- Conditional Verbs
+- Causative Verbs
+- Factitive Verbs
+- Reflexive Verbs
+- Adjectives
+- Attributive Adjectives
+- Predicative Adjectives
+- Proper Adjectives
+- Collective Adjectives
+- Demonstrative Adjectives
+- Interrogative Adjectives
+- Nominal Adjectives
+- Compound Adjectives
+- Order of Adjectives
+- Degrees of Comparison
+- Comparative Adjectives
+- Superlative Adjectives
+- Adverbs
+- Adverbs of Time
+- Adverbs of Place
+- Adverbs of Manner
+- Adverbs of Degree
+- Mitigators
+- Intensifiers
+- Adverbs of Frequency
+- Adverbs of Purpose
+- Focusing Adverbs
+- Negative Adverbs
+- Conjunctive Adverbs
+- Evaluative Adverbs
+- Viewpoint Adverbs
+- Relative Adverbs
+- Adverbial Nouns
+- Regular and Irregular Adverbs
+- Degrees of Comparison
+- Comparative Adverbs
+- Superlative Adverbs
+- Order of Adverbs
+- Prepositions
+- Prepositional Phrases
+- Categories of Prepositions
+- Common Prepositional Errors
+- Prepositions with Nouns
+- Prepositions with Verbs
+- Prepositions with Adjectives
+- Prepositions in Idioms
+- Idioms that Start with Prepositions
+- Idioms that End with Prepositions
+- Conjunctions
+- Coordinating Conjunctions
+- Correlative Conjunctions
+- Subordinating Conjunctions
+- Other parts of speech
+- Particles
+- Articles
+- Determiners
+- Possessive Determiners
+- Gerunds
+- Gerunds as Objects of Verbs
+- Interjections
+- Inflection (Accidence)
+- Conjugation
+- Tense
+- Present Tense
+- Present Simple Tense
+- Present Continuous Tense (Progressive)
+- Present Perfect Tense
+- Present Perfect Continuous Tense
+- Past Tense
+- Past Simple Tense
+- Past Continuous Tense
+- Past Perfect Tense
+- Past Perfect Continuous Tense
+- Future Tense (Approximation)
+- Future Simple Tense
+- Future Continuous Tense
+- Future Perfect Tense
+- Future Perfect Continuous Tense
+- Aspect
+- Perfective and Imperfective Aspect
+- Aspects of the Present Tense
+- Aspects of the Past Tense
+- Aspects of the Future Tense
+- Mood
+- Indicative Mood
+- Subjunctive Mood
+- Subjunctive Mood - Expressing Wishes
+- Voice
+- Active Voice
+- Passive Voice
+- Middle Voice
+- Speech
+- Reported Speech (Indirect Speech)
+- Grammatical Person
+- Declension
+- Plurals
+- Gender in Nouns
+- Regular and Irregular Inflection
+- Syntax
+- Subjects and Predicates
+- The Subject
+- The Predicate
+- Complements
+- Objects
+- Subject Complements
+- Object Complements
+- Adjective Complements
+- Adverbial Complements
+- Modifiers
+- Adjuncts
+- Phrases
+- Noun Phrases
+- Adjective Phrases
+- Adverbial Phrases
+- Participle Phrases
+- Absolute Phrases
+- Appositives
+- Clauses
+- Independent Clauses
+- Dependent Clauses
+- Noun Clauses
+- Relative Clauses
+- Adverbial Clauses
+- Sentences
+- Compound Sentences
+- Complex Sentences
+- Compound-Complex Sentences
+- Declarative Sentences
+- Interrogative Sentences
+- Negative Interrogative Sentences
+- Imperative Sentences
+- Conditional Sentences
+- Major and Minor Sentences (Regular and Irregular Sentences)
+- Quiz answers
+- Index
