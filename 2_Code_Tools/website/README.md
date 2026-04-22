@@ -1,22 +1,21 @@
-# AgendaExperto.com static landing
+# AgendaExperto.com static website
 
-Landing estática para `Clases particulares de inglés con Orlando`, construida en HTML, CSS y JavaScript vanilla dentro de `2_Code_Tools/website/`.
+Sitio estático construido en HTML, CSS y JavaScript vanilla dentro de `2_Code_Tools/website/`.
 
-## Qué contiene
+## Estructura pública
 
-- `index.html`: estructura base del sitio.
-- `styles.css`: estilos visuales y responsive.
-- `main.js`: render e interacciones ligeras.
-- `content/site-data.js`: fuente de verdad del contenido comercial.
-- `assets/images/`: imágenes públicas del sitio.
-- `assets/credentials/`: PDFs de credenciales visibles.
+- `index.html`: portada de `AgendaExperto.com` como marketplace.
+- `orlando.html`: perfil público de Orlando Lazos.
+- `english-classes.html`: landing del servicio `Clases particulares de inglés`.
+- `styles.css`: sistema visual compartido y responsive.
+- `main.js`: navegación móvil, marcado de links activos y año del footer.
+- `assets/images/`: imágenes públicas y creativos promocionales.
+- `assets/credentials/`: PDFs de credenciales resumidas dentro de la landing.
 
 ## Cómo abrirla localmente
 
-Opciones simples:
-
 1. Abrir `index.html` directamente en el navegador.
-2. O servir esta carpeta con un servidor estático mínimo, por ejemplo:
+2. O servir la carpeta con un servidor estático mínimo:
 
 ```powershell
 cd 2_Code_Tools/website
@@ -27,32 +26,20 @@ Luego abrir `http://127.0.0.1:8000`.
 
 ## Cómo editar contenido
 
-La mayor parte del copy vive en `content/site-data.js`.
+El contenido ya no vive concentrado en una sola fuente JS.
 
-Ahí se controlan:
-
-- branding y hero
-- cursos y módulos
-- temarios
-- metodología
-- perfil de Orlando
-- credenciales
-- precios
-- FAQ
-- contacto
-
-Si necesitas cambiar layout o estilo:
-
-- estructura visual: `index.html`
-- estilos: `styles.css`
-- interacciones: `main.js`
+- portada marketplace: `index.html`
+- perfil Orlando: `orlando.html`
+- landing de inglés: `english-classes.html`
+- estilo compartido: `styles.css`
+- interacciones base: `main.js`
 
 ## Publicación futura
 
-Esta carpeta está pensada para seguir siendo portable.
+La carpeta sigue siendo portable para hosting estático.
 
-Si después quieres subirla a GitHub Pages u otro hosting estático:
+Si después quieres publicarla:
 
-1. publicar el contenido de `website/` como raíz del sitio o dentro de la carpeta que use el hosting;
-2. conservar rutas relativas;
-3. actualizar solo los enlaces públicos si cambian dominio, WhatsApp, correo o Facebook.
+1. publica el contenido de `website/` como raíz del sitio;
+2. conserva rutas relativas entre páginas y assets;
+3. actualiza los enlaces públicos si cambian dominio, WhatsApp, correo o PDFs.
