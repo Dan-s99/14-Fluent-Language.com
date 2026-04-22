@@ -6,6 +6,8 @@ independence: Encapsulated
 
 Este contenedor reúne conocimiento reusable del proyecto, separado del trabajo concreto y de la documentación técnica.
 
+`Fluent Language.com` se usa aquí como proyecto de trabajo para construir y documentar la página web del servicio de clases particulares de inglés de Orlando Lazos. Esa presencia pública se distribuye entre su perfil profesional en Facebook y su página dentro de `AgendaExperto.com`.
+
 #   Principles of cohesion and coupling / scope
 
 ##    Cohesion

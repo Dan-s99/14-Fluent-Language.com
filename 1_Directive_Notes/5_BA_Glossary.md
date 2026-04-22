@@ -12,8 +12,8 @@ Business Administration glossary
     - *Desarrollo de productos y servicios*: Definición de lo que se ofrece
   2. *fijación de precios*:
   3. *Difusión comercial*: Estrategias para dar a conocer la propuesta. Difusión - propagar/divulgar. comercial - relativo al mercado. La difusión comercial se encarga de dar a conocer en el mercado al negocio y su propuesta.
-    - *Branding*: Estrategias publicitarias para generar una identidad de marca, difundir no ventas, sino contenido gratuito para generar vistas, e invitar a conocer la marca
-    - *Promoción*: Estrategias de anuncios para incentivar comparas en los clientes, invitar a conocernos o revisar oferta educativa
+    - *Branding* (publicidad): Estrategias publicitarias para generar una identidad de marca, difundir no ventas, sino contenido gratuito para generar vistas, e invitar a conocer la marca
+    - *Promoción* (anuncios para ventas): Estrategias de anuncios para incentivar comparas en los clientes, invitar a conocernos o revisar oferta educativa
   4. *distribución / plaza*: Estrategias para entregar propuesta a los clientes
   > El marketing es la actividad, conjunto de instituciones y procesos para crear, comunicar, entregar e intercambiar ofertas con valor para clientes, socios y la sociedad. (AMA, s.f.,)
 - **Estrategia de marketing**: Una estrategia de marketing es un plan estructurado que define cómo alcanzar objetivos comerciales, basándose en la comprensión del mercado. Puede abarcar investigación, ajuste de producto, fijación de precios, canales de distribución y promoción. No siempre debe incluir todos los elementos a la vez, pero siempre busca alinear las acciones con el mercado y las metas del negocio.

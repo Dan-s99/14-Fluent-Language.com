@@ -1,44 +1,61 @@
 ---
 name: 1_archetype
-description: Visión objetivo directiva para construir la oferta pública y la operación base de Fluent Language.com como negocio de clases de inglés en línea.
+description: Visión objetivo directiva para construir AgendaExperto.com como marketplace de perfiles profesionales accesibles, con English Classes de Orlando Lazos como primer servicio activo.
 independence: Encapsulated
 ---
 
-Este arquetipo define la visión objetivo del proyecto como negocio de enseñanza de inglés en línea para personas hispanohablantes en México. El repositorio busca convertir la experiencia docente y laboral bilingüe de Orlando en una oferta clara, profesional y reutilizable, con planes formativos, criterios comerciales, materiales base y procesos suficientes para vender, preparar e impartir clases con consistencia.
+Este arquetipo define la visión objetivo del proyecto como sitio público de `AgendaExperto.com`, un marketplace ligero para conectar visitantes con profesionales y sus servicios. Dentro de esa estructura, `English Classes` de Orlando Lazos funciona hoy como el primer perfil y servicio activo. El repositorio sigue sirviendo para organizar la oferta, los materiales y la operación reusable que sostienen esa presencia pública.
 
 #   Principles of cohesion and coupling / scope
 
 ##    Cohesion
 
-- Definir la visión general del negocio y de la documentación reusable que lo va a sostener.
-- Aterrizar una oferta principal de clases de inglés en línea para alumnos de 12 años en adelante, sin límite superior de edad.
-- Guiar la construcción de una oferta comercial con tres ritmos principales de cursado sobre un mismo curso maestro.
-- Servir como marco para decisiones futuras de branding, marketing, metodología, materiales de clase y operación comercial.
+- Definir la visión general del marketplace y de la documentación reusable que lo va a sostener.
+- Describir cómo conviven la marca pública `AgendaExperto.com`, los perfiles profesionales y los servicios particulares dentro del mismo proyecto.
+- Guiar la construcción del primer servicio activo, `English Classes`, sin perder de vista que el sitio debe escalar a más profesionales.
+- Servir como marco para decisiones futuras de branding, marketing, metodología, materiales de clase, producto y operación comercial.
 
 ##    Coupling
 
 - Se apoya en `5_marketing-glossary.md` para lenguaje comercial y de posicionamiento.
 - Se apoya en `6_branding.md` para identidad, percepción y consistencia de marca.
-- Se complementa con notas directivas futuras para metodología, currículo, ventas, gestión de alumnos y recursos de clase.
+- Se complementa con notas directivas futuras para metodología, currículo, ventas, gestión de alumnos, disponibilidad y recursos de clase.
 - Se traduce a trabajo concreto dentro de `3_Files` cuando existan alumnos, expedientes, agendas, materiales o clases reales.
 
 #   General vision
 
-- Fluent Language.com quiere funcionar como una oferta pública de clases particulares de inglés en línea con alcance nacional dentro de México.
+- `AgendaExperto.com` quiere funcionar como la portada pública para encontrar profesionales, revisar su perfil y entrar a sus servicios sin fricción.
+- La página raíz pública seguirá usando `index.html` como entrada principal del dominio `agendexperto.com`; no hace falta renombrar ese archivo para expresar la marca.
+- A corto plazo, la plataforma funciona como escaparate web accesible para perfiles profesionales; a mediano plazo debe poder integrar disponibilidad u horarios visibles por profesional.
+- El primer caso activo del marketplace es Orlando Lazos, cuyo servicio visible hoy es `English Classes`.
+- El posicionamiento comercial del sitio debe apoyarse en claridad, facilidad de contacto, precios comprensibles y presentación profesional de cada servicio.
+
+#   Marketplace architecture
+
+- La experiencia pública actual debe seguir una ruta simple de tres niveles:
+  - `AgendaExperto.com`: portada general del marketplace.
+  - `Perfil profesional`: página intermedia del profesional.
+  - `Servicio`: landing dedicada del servicio activo.
+- Cada profesional debe poder promocionar su negocio o servicio de una forma fácil y asequible.
+- El diseño detallado del producto marketplace puede crecer después con un equipo dedicado, pero el arquetipo ya debe dejar clara esa arquitectura base.
+
+#   Free profile baseline
+
+- La versión gratuita del perfil profesional debe funcionar como un escaparate web básico.
+- El perfil gratuito contempla:
+  - foto principal de perfil;
+  - foto de portada;
+  - una descripción corta de hasta `50` palabras;
+  - hasta `2` publicaciones sencillas, cada una con `1` imagen y hasta `50` palabras descriptivas.
+- El perfil público debe priorizar claridad inmediata: quién es el profesional, qué ofrece y cómo contactarlo.
+- La disponibilidad u horarios todavía no forman parte de la versión actual visible, pero sí pertenecen al roadmap natural del producto.
+
+#   Current flagship service
+
+- `English Classes` debe funcionar como la demostración más completa del modelo de perfil más servicio dentro de `AgendaExperto.com`.
 - La propuesta se impartirá por videollamada, con preferencia operativa por `Zoom` y con `Google Meet` o `Microsoft Teams` como alternativas cuando convenga.
 - El servicio estará orientado principalmente a alumnos hispanohablantes que necesitan aprender inglés para estudiar, trabajar o desenvolverse mejor en contextos bilingües.
-- El posicionamiento comercial se apoyará en la experiencia real de Orlando como profesor de inglés y como profesional con experiencia en ambientes o roles bilingües. La cifra pública exacta de esa experiencia laboral todavía debe fijarse porque en el contexto actual aparece una duda entre `3` y `4` años.
-
-#   Offer architecture
-
-- Existe un solo `curso maestro`, con la misma secuencia de contenido y la misma base temática para todos los alumnos.
-- La oferta pública se presenta como tres formatos comerciales:
-  - `Plan de 3 meses`: ritmo intensivo.
-  - `Plan de 6 meses`: ritmo medio.
-  - `Plan de 12 meses`: ritmo gradual.
-- La diferencia entre esos formatos no es el contenido, sino la velocidad de avance, la frecuencia de las clases y el margen de repaso dentro del proceso.
-- Los tiempos deben manejarse como marcos estimados y no como promesas rígidas. Si un alumno necesita repetir, reforzar o frenar el ritmo, el proceso puede extenderse sin romper la lógica del curso maestro.
-- La promesa formativa del ritmo intensivo no debe presentarse como adecuada para cualquier principiante. Su público natural son alumnos de reactivación, consolidación o aceleración.
+- El posicionamiento comercial se apoyará en la experiencia real de Orlando como profesor de inglés y como profesional con experiencia en ambientes o roles bilingües.
 
 #   Curriculum requirement
 
@@ -49,7 +66,11 @@ Este arquetipo define la visión objetivo del proyecto como negocio de enseñanz
 
 #   Immediate strategic priority
 
-- La prioridad actual es seleccionar una fuente curricular de alta calidad para formalizar el curso maestro y convertirlo en una propuesta concreta de clases.
-- Esa fuente debe permitir decir con precisión qué se va a enseñar, cuántas clases cubre el programa y sobre qué materiales se apoyará la impartición.
+- La prioridad actual es consolidar una primera presencia pública coherente para `AgendaExperto.com` mientras se sigue formalizando el curso maestro de `English Classes`.
+- Esa presencia pública debe dejar claro:
+  - que `AgendaExperto.com` es el marketplace;
+  - que Orlando Lazos es el primer perfil profesional activo;
+  - que `English Classes` es el servicio visible más desarrollado.
+- En paralelo, el proyecto debe seguir formalizando una fuente curricular de alta calidad para sostener el curso maestro y convertirlo en una propuesta cada vez más precisa de clases.
 - La nota `7_curriculum-source-selection.md` registra la evaluación inicial de candidatos y la recomendación de fuente base.
 - La nota `7,2_book-sources.md` concentra la búsqueda específica de libros fuente para usar como columna vertebral del curso maestro.

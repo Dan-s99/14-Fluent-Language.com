@@ -6,10 +6,10 @@ Sitio estático construido en HTML, CSS y JavaScript vanilla dentro de `2_Code_T
 
 - `index.html`: portada de `AgendaExperto.com` como marketplace.
 - `orlando.html`: perfil público de Orlando Lazos.
-- `english-classes.html`: landing del servicio `Clases particulares de inglés`.
+- `english-classes.html`: landing del servicio `English Classes`.
 - `styles.css`: sistema visual compartido y responsive.
 - `main.js`: navegación móvil, marcado de links activos y año del footer.
-- `assets/images/`: imágenes públicas y creativos promocionales.
+- `assets/images/`: imágenes públicas, isotipo del marketplace y creativos promocionales.
 - `assets/credentials/`: PDFs de credenciales resumidas dentro de la landing.
 
 ## Cómo abrirla localmente
@@ -30,7 +30,7 @@ El contenido ya no vive concentrado en una sola fuente JS.
 
 - portada marketplace: `index.html`
 - perfil Orlando: `orlando.html`
-- landing de inglés: `english-classes.html`
+- landing `English Classes`: `english-classes.html`
 - estilo compartido: `styles.css`
 - interacciones base: `main.js`
 
