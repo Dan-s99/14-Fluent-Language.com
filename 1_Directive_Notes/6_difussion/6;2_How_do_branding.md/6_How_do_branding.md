@@ -26,6 +26,14 @@ Esta nota reúne criterios reusables para pensar, definir y revisar el branding 
 
 El branding es el trabajo intencional de definir cómo una marca quiere ser percibida y qué señales usa para sostener esa percepción con consistencia.
 
+El branding puede clasificarse según sobre quién trate:
+1. *Personal*: La marca gira alrededor de una persona
+2. *Corporativo/empresarial*: (Una empresa es una identidad asociada principalmente al negocio de actividades económicas y trabaja para la rentabilidad financiera)
+3. *Institucional*: (Una institución se asociada más a entidades con fines sociales qué mercantiles, aunque pueden ser lucrativas su misión no es financiera sino trabajar por sus *intereses vocacionales*)
+
+> Nota
+> *Vocación*: Tendencia profunda y relativamente estable de una persona hacia una actividad, función, misión o modo de servir, que percibe como valioso o acorde con su identidad. *Interés vVocación*: Tendencia profunda y relativamente estable de una persona hacia una actividad, función, misión o modo de servir, que percibe como valioso o acorde con su identidad.
+
 ##    Objetivo
 
 - Lograr que la marca sea clara, reconocible y confiable para el público correcto.
@@ -65,7 +73,7 @@ El branding es el trabajo intencional de definir cómo una marca quiere ser perc
 - Branding no reemplaza la calidad real del servicio u oferta.
 - Branding sin consistencia operativa produce una percepción frágil o contradictoria.
 
-#     Identidad visual (símbolo o imagen de marca)
+#     Identidad visual de negocio(símbolo o imagen de marca)
 
 ## 🧠 Identidad visual (símbolo de marca): qué es y tipos
 
@@ -90,13 +98,13 @@ Es la “cara” de tu negocio: lo que la gente reconoce **sin leer mucho**.
 
 ### 1. Logotipo (solo texto)
 
-![Image](https://images.openai.com/static-rsc-4/V-ZnxYYMm5mJr3nsphJbsgedUBII36AzcCDN1GLptxANEsOiRJSlmODORSxQS7IFpylXiPmtC2TKtF6MHhsHQW2wGOU6tPthz5TGEC-GIh4llre1rFx81Sf60GKvAIwgl-DKuxCx_w-k3YN2ulAiEQqVv28hz8W1P18d0JWIrsIPy-6rvlfVNJoMntNT1r5N?purpose=fullsize)
+![Logotipo 1](images/logotype_01.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/qP9PJvv9U3X3yq1lZcjtokEMJM0ezcJOKQl9duLdMJPYHV8mmzSzwaLV2qu2jF-t8WbWK_glMGZFBPebnfVbpm8Hcz_08ub1UVkHwsIOf382RBEaJxsu6mu0RH0FUce3VxM4wsnnTPkX42114M0A6qNLzt9f5CBDIdjQqiff0a058O4N0mco6dvFfOF0P6t2?purpose=fullsize)
+![Logotipo 2](images/logotype_02.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/eQcce0UhlzDBH_fvcxlrkntItKukU2qu-3AUWuxgu5twbPVaUelWtDYZ0Q7shCSlS-A3ca53pWBcSLPJhr5GGvTVXCJfOyomNnRETEGq-7xtF_8on5luYR3OejRUAdvOhj7-zcXZ22Mn8ZQvCMsYw8MtlBVvT8jeXufLoKzO9tiq62uOM_-HLDodHqGnuuuy?purpose=fullsize)
+![Logotipo 3](images/logotype_03.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/iTzVUNGNTXRcZv7a5mKDGyKjdOAr_6kex2hqT9NUgi3JocFt-ggVxUgesYOA7jrX40vhljrwaii40zSGP6z9yf5AVdbfng4bLunD1gqozt37P7Y_J4kA40eVH8kza5ohZ_bO6YPx9_BKMUXascRf8bELNLuPA3mBX3CAhiz5KhDL2uebIe9GUZpaliZ4DnSB?purpose=fullsize)
+![Logotipo 4](images/logotype_04.jpg)
 
 **Definición:** Marca basada únicamente en letras (nombre).
 
@@ -121,13 +129,13 @@ Es la “cara” de tu negocio: lo que la gente reconoce **sin leer mucho**.
 
 ### 2. Isotipo (solo símbolo)
 
-![Image](https://images.openai.com/static-rsc-4/3uheqWjZ4tnn2gOv2w1BJkPH5RYucBDZCTCt_Rj-VSmoN5JfqmfwcD_2ltUr2niZPij685RdR1l2pQA8ya9CkNKUEb8ufjYUaG-bODQUX3a3i-YykCsojoYlKSoIocF-0B5jS7dEKZVURXngvbfN0LStj6SI1zuYokidhXSiltCXkeLHM8MMm_nlj_tOHvcP?purpose=fullsize)
+![Isotipo 1](images/isotype_01.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/79Et3A4PaEGnZrF5xoLFyetuC5VT835M-xg5v1O0FamfcM2UOanc-tPJVfm_7ZfzRoGI91zvOXlvJ6U3Xp7OHdcIJ2NrpZMm0SatKIJb84Caf9xwDzCV86ESzexsUR_mpcqDp19jjH1wfCTLRK7PpGo8oILcJAdsB5FQKXFRAtG_DHsSothe9kNxSPtrtLLQ?purpose=fullsize)
+![Isotipo 2](images/isotype_02.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/CHmn4V0_HVFhV7JUjq4MKpHKd6kqCwzUtJg4cLh3oy7CfyeR9pjd3PnwXK4yUW9TicRW9QttR9ZdjTLTSseInCbgkKfJ1zRSMtKC8g1UEXIvh9CQzhnZXfd-Titf1zKDAm7weykSrRZI3nHYHIDISSNeEoY_3GTw52uxD4dRS_9l6NgiegVsl3KlYdjTgn9_?purpose=fullsize)
+![Isotipo 3](images/isotype_03.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/ZqrIiqe-YfQ_sQbGjQ2zD2Yc_pNtW2SlMUjjj4V8mSBXj-TQc8ZFX6bTrpvR_21qOe-d9oZnOEbUIKLttRruTJ48QnX3hzjxcaLjnpoAp1hCeXPTRK-VkDK4P4V1dDbSdePvIefvnnfU-TgfIrB5nQ01VicLAjpDzD42Bf0-hAPabfqtOhDkGnl86iYbcUVi?purpose=fullsize)
+![Isotipo 4](images/isotype_04.jpg)
 
 **Definición:** Símbolo sin texto.
 
@@ -152,13 +160,13 @@ Es la “cara” de tu negocio: lo que la gente reconoce **sin leer mucho**.
 
 ### 3. Imagotipo (texto + símbolo separados)
 
-![Image](https://images.openai.com/static-rsc-4/TQCf2gsctqi7Lu21JwMS5Jur9S68WgY_xHIgzWf7Vj3QD2RIY0s9iJCHtquu_B4wXDk8yBHVl7y8PDkJ7yUeghmqEYGcLLhlol-ugjzb8YPGfr7x3Df1uxde4iCYUzA8IcOiOf9egU-fPzAJ2EkJaI3Bd20KMK0FdxjRaJI2h0LaxFSF6finA5NJGaMB9Cfo?purpose=fullsize)
+![Imagotipo 1](images/imagotype_01.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/rqTr-4O32mnWuGphzo0H0M2owsd_F8ta0CfvonzPUhRUPtTn1UUocPnyqaR-fxTr_Pv-IRzcpGiXjg8U-2_l7JrvFRW-Csszlr5i1sJUkvn-Hy3P4QC-cg7wf_7lgiOE4o47Tk_CR1f3UPdvHgQLY48FdosrP4chIDmVlXFjC4JL1502tcsPu_kIn4E29e7F?purpose=fullsize)
+![Imagotipo 2](images/imagotype_02.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/k8JwRT1TsTqVyfUcGeaqIW1SZfB3JgQlsLR2EL7hSU_kS6rSvZ4T_9FPIciMUfQ7RsgrscXXd931YSENXWYMGu5Px9U1XZmW2cTOzNNVlo-efmM1rtUA8XQF1WC753fy2a106hJwGCGrIVzramyXBNs4iOzyBsEOjtgPrg8cDB-Z1yLIeUK9tkxvtNUqJk26?purpose=fullsize)
+![Imagotipo 3](images/imagotype_03.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/TiXzSl-t7-6LRHzlw2ugoU_GUBtKSyPCQgw8SiUcfiHLxwhZW4iq2YPmUlJG0RiY3rp3AtzFDi8OViZ2M2o8Lb0YVqTp2ScB_6OXCP6HodtVMRMX_B27exADVeK9s5JDepDadte15tDekIYhEZ1Ix5s-thXsudIpxZeAzqh2Pk_pJJI-ehTqL-bPZveLtjgP?purpose=fullsize)
+![Imagotipo 4](images/imagotype_04.jpg)
 
 **Definición:** Texto + símbolo, pero pueden usarse por separado.
 
@@ -183,13 +191,13 @@ Es la “cara” de tu negocio: lo que la gente reconoce **sin leer mucho**.
 
 ### 4. Isologo (texto + símbolo fusionados)
 
-![Image](https://images.openai.com/static-rsc-4/X5ydO6-Lpw1NkzCdCYZf04UA886x44aD2B7PsN5KtPXtpvC7eh84_X_VpGu_XxheOO--s0156AFAMBFpQWuzh8JLpPmHvRnm2AFm0j6x-dJCfVF6R-pn-KBJh1oLNgljaB5_gRIzq9KVia1HPyNstNQMvRqO8XQrjd7bGa4_17z9acU6gd2iZQ4e-bSfa8l0?purpose=fullsize)
+![Isologo 1](images/isologo_01.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/-FoosdbSOwEQgGko_57ekda-K2sxi2jvUSQl4U1SNtBVrrnnbP-OeEsia8k7s35vA4jcI5S4sQBfhvWWz8J6xfK6hsX4C25SM43FeCeAvDZMpQwhuZya-A5Rd78Z32q7emPrInWn74485BnPwbqwuOs93dCVmTcmQZr9F77-vLYj42SGxRFOCU5TQEycxfyG?purpose=fullsize)
+![Isologo 2](images/isologo_02.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/dq4jekweLWynxskuxIiwotqO7XUcd0U9vMlOKI5XxQTYJ5ONMCUez4VMuTryYhcx0hzKLMguUPLN220hDccWpYrtO9xyiLj0YJWn1gUW7uka13LhFG_M0QiT4vvIhOCOOepDFa2IpvbckuLdkeTdEmO11OnHg_hEPkA8YBWa8EL3_2DlXwI_HhU3bCn3Fw2d?purpose=fullsize)
+![Isologo 3](images/isologo_03.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/z6EjIjatPNy_C5G2YiVHMRGd83su8ugyO3Px9cJtYUx2ju-Wr0pFWVXyEEnGZaQolbN7hPBWBSzGONs_W7-quNgPzCu3mN9GlO9-AlUSVSdkA2yoZWaFqDcCMMkX8uRlyr46Sjz-g2t6OIxnScP2jHwj6ci-XQr9EBB3oXL7pjh3B33_lhyVA60246HM39dU?purpose=fullsize)
+![Isologo 4](images/isologo_04.jpg)
 
 **Definición:** Todo está unido, no se puede separar.
 
@@ -251,5 +259,4 @@ Si quieres, en el siguiente paso podemos:
 * Generar nombres alineados con tu branding
 * Proponer ideas concretas de logo para tu escuela
 * O incluso diseñar conceptos visuales 👌
-
 

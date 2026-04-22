@@ -30,3 +30,4 @@ Este contenedor reúne conocimiento reusable del proyecto, separado del trabajo 
 - `7;2_book-sources.md`: búsqueda específica de libros fuente para convertir el curso maestro en una secuencia de aproximadamente 60 a 80 clases.
 - `7;3_Complete_English_Grammar.md`: índice extraído de *The Farlex Grammar Book: Complete English Grammar Rules* para reutilizar su temario base como referencia curricular.
 - `7;4_Master_Grammar_Curriculum.md`: currícula gramatical maestra de 72 lecciones organizada por bloques y diseñada para sesiones de 40 a 60 minutos.
+- `9_Selling.md/9_Selling.md`: evaluación directiva de `Snap Selling` como marco comercial para vender cursos de inglés con claridad, relevancia y menor fricción.

@@ -8,7 +8,7 @@ Esta nota aterriza cómo debe posicionarse la marca frente a otras alternativas 
 
 #   Mi branding será un branding personal. 
 
-Esto es conveniente porque el servicio no gira alrededor de una institución impersonal ni de una operación masiva, sino alrededor de la relación directa entre profesor y estudiante. En clases particulares de inglés, una parte importante del valor percibido no está solo en el contenido, sino en quién enseña, cómo acompaña, cómo explica y qué confianza transmite. Por eso, una identidad personal tiene coherencia con la naturaleza real del servicio: el estudiante no solo contrata clases de inglés, sino también mi criterio, mi estilo de enseñanza, mi trato, mi experiencia y mi capacidad de adaptar cada sesión a sus necesidades.
+Esto es conveniente porque el servicio no gira alrededor de  una institución impersonal ni de una operación masiva, sino alrededor de la relación directa entre profesor y estudiante. En clases particulares de inglés, una parte importante del valor percibido no está solo en el contenido, sino en quién enseña, cómo acompaña, cómo explica y qué confianza transmite. Por eso, una identidad personal tiene coherencia con la naturaleza real del servicio: el estudiante no solo contrata clases de inglés, sino también mi criterio, mi estilo de enseñanza, mi trato, mi experiencia y mi capacidad de adaptar cada sesión a sus necesidades.
 
 Además, un branding personal ayuda a diferenciarme en un mercado donde muchas opciones se ven genéricas o intercambiables. Mientras otros servicios pueden presentarse como “academias” o “cursos” con una imagen más fría o distante, una marca personal puede comunicar cercanía, confianza, responsabilidad y atención individual. Eso fortalece la percepción de personalización real, que justamente es uno de los pilares de la propuesta de valor. Si la clase es particular, flexible y centrada en la persona, tiene sentido que la identidad de la marca también refleje esa cercanía humana.
 
@@ -18,34 +18,33 @@ También es una decisión estratégica porque facilita construir reputación a p
 
 ##   Imagen de marca
 
-El negocio es de profesional independiente, por lo tanto la mejor imagen de marca es una imagotipo: mi rostro, con un logo de lo que hago, que en este caso es ser profesor de lengua de inglés por lo tanto le puse language teacher. Esta imagen la tendré en mis diferentes redes sociales en donde haga publicidad.
 ![alt text](<WhatsApp Image 2026-04-14 at 16.16.39.jpeg>)
+
+El negocio es de profesional independiente, por lo tanto la mejor imagen de marca es una imagotipo: mi rostro, con un logo de lo que hago, que en este caso es ser profesor de lengua de inglés por lo tanto le puse language teacher. Esta imagen la tendré en mis diferentes redes sociales en donde haga publicidad.
 
 Además del imagotipo personal utilizaré también un logotipo sencillo. Va, te dejo una descripción clara y usable (tipo profesional):
 
----
-
 ##    logotipo
 
-Descripción de logotipo (versión final). Logotipo minimalista compuesto por un **ícono de burbuja de diálogo**, que representa la comunicación, el lenguaje y la interacción verbal. En su interior se integra el texto **“FL.com”**, donde:
+![alt text](image.png)
+Logotipo minimalista compuesto por un **ícono de burbuja de diálogo**, que representa la comunicación, el lenguaje y la interacción verbal. En su interior se integra el texto **“FL.com”**, donde:
   * **“F” y “L” en mayúsculas**, estilizadas con una tipografía limpia y moderna
   * **“.com” en minúsculas**, generando contraste visual y jerarquía
-
 El diseño utiliza una **línea simple y elegante**, con un enfoque minimalista que lo hace fácilmente reconocible y adaptable a distintos formatos.
 ¶	  El archivo se presenta en formato **PNG (Portable Network Graphics) con canal alfa (alpha channel)**, lo que permite un **fondo transparente**. Esto facilita su uso sobre cualquier color o imagen sin bordes visibles.
-![alt text](image.png)
 
 ##   creativos de marca
 
-En Facebook voy a poner una portada que comuniqué:
-- Escuela de inglés para competencias conversacionales y profesionales, una foto mia con IA.
-  - En un diagrama poner los *2 cursos* que hay:
-  1. *Competencia conversacionales*, 72 lecciones
-  2. *Competencias Profesionales*, 4 módulos
-- Estudia con profesor:
-  - *Certificado* en la enseñanza de inglés por Cambridge
-  - *y con 5 años de experiencia* en diferentes roles bilingües
-- Clases asistidas por IA
+Mis creativos de marca deben de tener mí:
+1. información básica de contacto (Número trabajo, correo electrónico)
+2. Medios digitales (página web, redes sociales)
+
+###   Portada de Facebook
+
+[Imagen de portada con información del programa académico, precios, contacto, y medios digitales](portada.png) 
+
+*__Portada de Facebook__. Escuela de Inglés Particular. Curso de inglés conversacional: completo (72 lecciones, 9 meses) y repaso gramatical (48 lecciones, 3 meses). Cursos de competencias profesionales: pronunciación (38 lecciones, 2 meses), proyecto de comprensión lectora (tiempo indeterminado) y expresión oral y escrita (24 sesiones, 2 meses). Tiempos estimados con 4 horas de estudio semanales. Con más horas de clase y estudio independiente, puedes reducir el tiempo estimado hasta en un tercio. Tarifas de $100 a $200 por clase. Pide tu cotización sin compromiso. Teléfono: 627 112 3548. Además tiene el correo `TeacherOLazos99@gmail.com`, y la página web `AgendaExperto.com`*
+
 
 ##    Encabezado y pie de marca
 
@@ -55,7 +54,7 @@ En Facebook voy a poner una portada que comuniqué:
 
 Se integra de:
 - logotipo
-- nombre identificador del negocio
+- nombre identificador del negocio (red social difusora)
 - nombre del representante
 - slogan
 
@@ -74,7 +73,7 @@ Se integra de:
 
 ##    Nombre del negocio
 
-"Academia de Inglés Particular con Orlando". El nombre Academia de Inglés Particular refleja un enfoque educativo especializado, personalizado y orientado a resultados reales. Se elige el término “academia” porque comunica formación estructurada, desarrollo de competencias y un proceso de aprendizaje con continuidad, más allá de clases aisladas.
+`"Academia de Inglés Particular con Orlando"`. El nombre Academia de Inglés Particular refleja un enfoque educativo especializado, personalizado y orientado a resultados reales. Se elige el término “academia” porque comunica formación estructurada, desarrollo de competencias y un proceso de aprendizaje con continuidad, más allá de clases aisladas.
 
 A diferencia de una simple oferta de tutorías, esta academia organiza el aprendizaje en programas definidos, como el curso de inglés conversacional y el curso de inglés profesional, los cuales siguen una progresión lógica. Esto transmite seriedad, dirección y propósito formativo.
 

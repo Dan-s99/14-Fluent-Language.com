@@ -1,15 +1,24 @@
 #   Pending
 
+[ ] actualizar la documentación de proyecto para que haya una descripción comercial donde se epxicque qué es el negocio. pero pimero debo de tener guardados los comerciales y publicitarios.
+
 [ ] Página web
     [ ] aprender qué es lo de una página en git hub
+        [ ] pedir a codex que la elabore
+        [ ] tener un link personalizado
 
 [ ] Promoción
-    [ ] promociones de apertura
+    [ ] Básicos
+        [ ] promociones de apertura
+        [ ] Curso de ingles desde 0, inglés conversacional en tan solo 6 meses clases desde 100 pesos, pide tu sesión informativa es gratis.
     [ ] Facebook adds
     [ ] bitácora de estudios
 
+
 [ ] Personal branding vs business branding, explicar que es
     [ ] Publicidad
+        [ ] AGREGAR MI PUBLICACIONES MI REPO PARA QUE CODEX PUEDA TENERLAS PARA SU CONTEXTO        
+        [ ] Anunciar mi página web.             
         [X] Curso de competencias conversacionales
             [x] Curso de ingles conversacional (78 lecciones, 9 meses)
             [x] Curso de repaso gramatical (48 lecciones, 3 meses)
@@ -23,12 +32,12 @@
 
 [ ] Branding
     [x] Nombre y logotipo
-    [x] logotipo, a pensar de ya contar con mi imagen de marca personal que es una foto mía con una descripcón de mis servicios, aún no tengo un logo que pueda utlizar con recurrencia, pondé un robot como logo visual para evitar poner mi foto en representaciones pequeñas.
+    [x] logotipo, a pensar de ya contar con mi imagen de marca personal que es una foto mía con una descripción de mis servicios, aún no tengo un logo que pueda utilizar con recurrencia, donde un robot como logo visual para evitar poner mi foto en representaciones pequeñas.
     
     [ ] Descripción profesional
         [x] certificado
-        [x] Descricpción de como tomar mis clases
-        [ ] Descripcion sobre precios de mis clases
+        [x] Descripción de como tomar mis clases
+        [ ] Descripción sobre precios de mis clases
         [ ] descripciçón ruta de aprendizaje
         [ ] Acerca de mí:
             [ ] experincia
