@@ -12,15 +12,37 @@ independence: Encapsulated
 - La iteración más reciente llevó la landing de inglés a una exposición comercial más concreta:
   - el temario público ahora muestra nombres de clases y módulos en vez de solo resúmenes por bloque;
   - los creativos de cursos ahora tienen una interacción de ampliación que mejora la inspección visual sin abandonar la página.
-- La misma iteración también resolvió una tensión de identidad visual y naming:
-  - la web pública ahora se alinea mejor con `AgendaExperto.com` como marca madre;
-  - el header ya usa el imagotipo real y un slogan fijo en lugar de una identidad provisional;
-  - el servicio ya expone arriba su portada comercial como pieza dominante;
-  - el nombre visible del servicio quedó homogenizado como `English Classes`;
-  - `Orlando Lazos` ya aparece de forma más consistente como nombre profesional.
+- La misma iteración también resolvió una tensión de identidad visual y arquitectura pública:
+  - la web pública ahora separa mejor el marketplace, el perfil profesional y la landing del servicio;
+  - el menú global ya no carga WhatsApp y deja esa acción dentro del contexto profesional;
+  - `index.html` ya puede explicar brevemente la visión de `AgendaExperto.com` sin abrir todavía una página aparte;
+  - el perfil de Orlando ya no depende de un solo servicio visible, porque ahora también incorpora `Servicios contables`;
+  - la landing principal del servicio de inglés dejó atrás el naming `English Classes` y migra hacia `Clases particulares de inglés` como nombre visible y `Inglés particular` como ruta corta.
+- La misma línea de ajuste visual ya corrigió otra tensión más sutil:
+  - la mezcla de familias tipográficas hacía que el sitio se sintiera menos consistente entre marketplace, perfil y servicios;
+  - al pasar todo a `Montserrat`, la experiencia gana continuidad corporativa sin exigir un rediseño estructural adicional;
+  - el header compartido conserva su arquitectura reciente, pero reemplaza el imagotipo miniaturizado por una composición más robusta de `isotipo + nombre`, mejor alineada al tono profesional buscado.
+- La iteración viva también resolvió una tensión de detalle entre estética y operatividad en la landing de inglés:
+  - la subnavegación anterior conservaba los nombres reales de secciones, pero dejaba demasiado visible la barra nativa de scroll y se percibía más utilitaria que editorial;
+  - la nueva versión mantiene los nombres reales y la navegación interna, pero los envuelve en un módulo visual más intencional con pestaña activa, flechas y seguimiento de sección;
+  - el ajuste se encapsuló bajo un atributo específico del servicio para no degradar la barra sticky más simple que todavía usan otras páginas.
+- La misma landing también tenía una tensión compositiva en su hero:
+  - la portada ya era dominante, pero todavía se sentía encerrada dentro del ancho normal del contenido;
+  - los accesos rápidos quedaban demasiado separados del gesto visual principal y competían como otra sección distinta;
+  - el ajuste reciente resuelve esa tensión convirtiendo el hero en una base más ancha con tarjeta contenida encima y una franja de accesos rápidos integrada justo al salir de la portada.
+- Esa expansión del hero reveló una tensión operativa de publicación:
+  - los carruseles internos podían imponer su ancho completo al grid padre y dejar la portada parcialmente fuera del área visible;
+  - la corrección reciente conserva el gesto visual ancho, pero fuerza a los contenedores intermedios a encogerse dentro del viewport;
+  - la validación responsive previa a publicar debe revisar tanto el `scrollWidth` del documento como los anchos calculados de módulos con carruseles internos.
+- La comunicación pública también tenía una pequeña fricción de confianza:
+  - el sitio ya funciona y la información esencial de las clases ya está publicada;
+  - pero esa condición no estaba explicitada y el visitante podía interpretar algunos huecos visuales como señal de sitio incompleto o inactivo;
+  - el nuevo aviso flotante temporal corrige esa lectura desde frontend puro, sin introducir backend ni romper la portabilidad estática;
+  - la segunda iteración del mismo aviso lo acerca más a una pieza promocional amable y lo hace reaparecer por página, para que el mensaje no se pierda después de un solo cierre.
 - Hoy existe una correspondencia más clara entre estado real y documentación:
   - el `change log` ya registra la reestructura grande y la corrección visual más reciente;
-  - el `change log` ya registra también la expansión del temario visible, el lightbox, el refresh de marca y la subida de la portada al hero;
+  - el `change log` ya registra también la expansión del temario visible, el lightbox, el refresh de marca, la nueva doble navegación y el segundo servicio visible;
+  - el `change log` ya registra también el aviso flotante temporal que aclara el estado operativo actual de la web;
   - el `current state` ya describe la web como artefacto técnico existente y el comportamiento visible más reciente;
   - este documento ya no parte de la premisa de “contenedor vacío”.
 - Riesgos o tensiones actuales:
@@ -28,10 +50,15 @@ independence: Encapsulated
   - la validación sigue siendo principalmente manual;
   - la capa técnica continúa sin build, sin tests y sin automatizaciones de publicación;
   - el workflow todavía puede dejar desfases documentales si la actualización de `2_Code_Tools` no se trata explícitamente como parte del cierre de cada iteración técnica;
-  - la coexistencia entre marca de marketplace y estilos específicos por servicio ya exige criterio para no mezclar identidades visuales sin control.
+  - la coexistencia entre marca de marketplace y estilos específicos por servicio ya exige criterio para no mezclar identidades visuales sin control;
+  - al crecer la lógica visual por página, también aumenta el riesgo de que un selector compartido rompa otra landing si no se sigue encapsulando por contexto;
+  - como el contenido sigue repartido en varios HTML, una página nueva podría romper la consistencia tipográfica si no reutiliza de inmediato la misma carga global de `Montserrat`;
+  - la sección `Agenda tu primera clase` ya deja visible la expectativa de formulario, pero todavía no existe persistencia de datos ni agenda funcional;
+  - la limpieza de rutas ya retiró el alias `english-classes.html`, así que cualquier compatibilidad con enlaces viejos depende desde ahora del hosting o de aceptar la ruptura de esa URL anterior.
 - Si el sitio sigue creciendo, el siguiente contraste útil aquí será entre:
   - portabilidad estática actual;
   - necesidad futura de modularizar contenido;
   - necesidad futura de pruebas o tooling básico de publicación;
   - necesidad futura de volver obligatoria la documentación técnica de cierre como parte del workflow estándar;
-  - necesidad futura de separar mejor tokens visuales globales del marketplace frente a variaciones visuales propias de cada servicio.
+  - necesidad futura de separar mejor tokens visuales globales del marketplace frente a variaciones visuales propias de cada servicio;
+  - necesidad futura de conectar el formulario visible de agenda con un flujo real de captura de datos y seguimiento.

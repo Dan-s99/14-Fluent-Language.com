@@ -6,12 +6,12 @@
     <title>AgendaExperto.com | Encuentra expertos</title>
     <meta
       name="description"
-      content="AgendaExperto.com es la portada para descubrir expertos y elegir el servicio adecuado. Por ahora encontrarás el perfil de Orlando Lazos y su servicio English Classes."
+      content="AgendaExperto.com es un marketplace ligero para descubrir expertos con perfiles claros, servicios concretos y trato directo."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
@@ -20,64 +20,38 @@
   <body>
     <a class="skip-link" href="#main-content">Saltar al contenido</a>
 
-    <header class="site-header">
-      <div class="container header-row">
-        <a class="brand" href="index.html" aria-label="Ir al inicio">
+    <header class="site-header site-header--marketplace">
+      <div class="container marketplace-bar">
+        <a class="brand" href="index.html" aria-label="Ir al inicio de AgendaExperto.com">
           <span class="brand-mark-wrap">
             <img class="brand-mark" src="assets/images/isotipo_agendaExperto.com.png" alt="Isotipo de AgendaExperto.com" />
           </span>
           <span class="brand-copy">
             <strong>AgendaExperto.com</strong>
-            <span>La mejor solución al mejor precio.</span>
           </span>
         </a>
 
-        <button
-          class="nav-toggle"
-          type="button"
-          aria-expanded="false"
-          aria-controls="site-nav"
-          data-nav-toggle
-        >
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
+        <p class="marketplace-route" aria-label="Ubicación actual">AgendaExperto.com</p>
 
-        <nav class="site-nav" id="site-nav" aria-label="Principal" data-nav>
-          <div class="site-nav-links">
-            <a href="index.html" data-nav-link>AgendaExperto.com</a>
-            <a href="index.html#expertos">Expertos</a>
-            <a href="index.html#como-funciona">Cómo funciona</a>
-            <a href="orlando.html" data-nav-link>Orlando Lazos</a>
-          </div>
-          <a
-            class="button button-primary button-small"
-            href="https://wa.me/526271123548?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20los%20servicios%20de%20AgendaExperto.com."
-            target="_blank"
-            rel="noreferrer"
-          >
-            WhatsApp
-          </a>
-        </nav>
+        <a class="button button-secondary button-small" href="#about-agendaexperto">About AgendaExperto.com</a>
       </div>
     </header>
 
     <main id="main-content">
-      <section class="hero section">
+      <section class="hero section hero--marketplace">
         <div class="container page-grid page-grid--hero">
           <div class="hero-copy">
             <p class="eyebrow">AgendaExperto.com</p>
-            <h1>Encuentra expertos con perfil claro y trato directo.</h1>
+            <h1>Encuentra expertos con presentación clara y contacto directo.</h1>
             <p class="lead">
-              Esta página funciona como escaparate base para descubrir expertos,
-              revisar su perfil profesional y entrar al servicio que mejor te
-              convenga sin perderte en vueltas innecesarias.
+              Aquí quiero reunir perfiles profesionales con servicios concretos,
+              precios comprensibles y una ruta simple para que puedas pasar de la
+              exploración al contacto sin fricción.
             </p>
             <div class="pill-row">
-              <span class="pill">Perfiles visibles</span>
-              <span class="pill">Servicios concretos</span>
-              <span class="pill">Contacto por WhatsApp</span>
+              <span class="pill">Marketplace ligero</span>
+              <span class="pill">Perfiles profesionales</span>
+              <span class="pill">Servicios accesibles</span>
             </div>
             <div class="action-row">
               <a class="button button-primary" href="#expertos">Ver expertos</a>
@@ -88,16 +62,16 @@
           <div class="hero-panel hero-panel--marketplace">
             <div class="stack-card">
               <span class="stack-card__label">Disponibilidad actual</span>
-              <strong>1 perfil activo</strong>
+              <strong>1 perfil activo · 2 servicios visibles</strong>
               <p>
-                Hoy puedes entrar al perfil de Orlando Lazos y desde ahí elegir su
-                servicio activo English Classes.
+                Hoy puedes entrar al perfil de Orlando Lazos y explorar sus
+                clases particulares de inglés o su línea de servicios contables.
               </p>
             </div>
             <div class="steps-mini">
-              <div><strong>1</strong><span>Exploras expertos</span></div>
-              <div><strong>2</strong><span>Entras al perfil</span></div>
-              <div><strong>3</strong><span>Eliges el servicio</span></div>
+              <div><strong>1</strong><span>Exploras AgendaExperto.com</span></div>
+              <div><strong>2</strong><span>Entras al perfil del profesional</span></div>
+              <div><strong>3</strong><span>Eliges el servicio que te conviene</span></div>
             </div>
           </div>
         </div>
@@ -109,8 +83,8 @@
             <p class="section-kicker">Expertos</p>
             <h2>Perfiles disponibles ahora</h2>
             <p>
-              La plataforma está lista para crecer con más profesionales. Por
-              ahora, el perfil activo es Orlando Lazos.
+              La plataforma está pensada para crecer con más profesionales. Por
+              ahora, el primer perfil público activo es Orlando Lazos.
             </p>
           </div>
 
@@ -120,36 +94,65 @@
             </div>
 
             <div class="profile-card__content">
-              <p class="card-kicker">Perfil destacado</p>
+              <p class="card-kicker">Perfil activo</p>
               <h3>Orlando Lazos</h3>
-              <p class="profile-card__role">Profesor de inglés y acompañamiento personalizado</p>
+              <p class="profile-card__role">Docencia personalizada y servicios contables</p>
               <p>
-                Orlando trabaja con English Classes, una oferta pensada para
-                estudiantes que quieren estructura, claridad y un trato más humano
-                que el de una opción masiva.
+                Aquí encontrarás un perfil profesional con dos líneas de servicio:
+                clases particulares de inglés y servicios contables con enfoque
+                práctico para plataformas tecnológicas.
               </p>
-              <ul class="bullet-list">
-                <li>Atención online primero, con posibilidad presencial por acuerdo.</li>
-                <li>Oferta actual: English Classes.</li>
-                <li>Ruta clara desde perfil hasta servicio.</li>
-              </ul>
+              <div class="service-pill-row">
+                <span class="service-pill">Clases particulares de inglés</span>
+                <span class="service-pill">Servicios contables</span>
+              </div>
               <div class="action-row">
                 <a class="button button-primary" href="orlando.html">Ver perfil</a>
-                <a class="button button-secondary" href="english-classes.html">Ir directo a English Classes</a>
+                <a class="button button-secondary" href="ingles-particular.html">Ir a Inglés particular</a>
               </div>
             </div>
           </article>
         </div>
       </section>
 
-      <section class="section section-surface" id="como-funciona">
+      <section class="section section-surface" id="about-agendaexperto">
+        <div class="container">
+          <div class="section-head">
+            <p class="section-kicker">About AgendaExperto.com</p>
+            <h2>Una visión de escaparate profesional accesible</h2>
+          </div>
+
+          <div class="about-grid">
+            <article class="info-card">
+              <p>
+                AgendaExperto.com es un proyecto personal con el que quiero
+                construir una vitrina profesional clara, útil y accesible para
+                personas que ofrecen servicios reales. La idea es que cada
+                profesional pueda verse serio, ordenado y fácil de entender sin
+                necesitar una infraestructura costosa ni una página complicada.
+              </p>
+            </article>
+            <article class="info-card">
+              <p>
+                También quiero que el sitio ayude a más personas a tener una
+                presencia web propia a precios reducidos. Por eso la visión no es
+                solo mostrar servicios: también es facilitar que otros expertos
+                puedan presentar su trabajo con mejor imagen, mejor claridad y un
+                camino más directo para conseguir clientes.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="como-funciona">
         <div class="container">
           <div class="section-head">
             <p class="section-kicker">Cómo funciona</p>
             <h2>Una navegación corta y fácil de entender</h2>
             <p>
-              La idea es que cualquier visitante ubique rápido dónde está, con
-              quién va a trabajar y cómo avanzar al siguiente paso.
+              Quiero que cualquier visitante ubique rápido dónde está, con quién
+              va a trabajar y qué servicio debe abrir.
             </p>
           </div>
 
@@ -157,17 +160,17 @@
             <article class="info-card">
               <span class="step-badge">01</span>
               <h3>AgendaExperto.com</h3>
-              <p>Presenta a los expertos disponibles y funciona como portada general.</p>
+              <p>Funciona como portada general y punto de entrada del marketplace.</p>
             </article>
             <article class="info-card">
               <span class="step-badge">02</span>
               <h3>Perfil Orlando Lazos</h3>
-              <p>Muestra quién es Orlando, cómo trabaja y qué servicio tiene activo.</p>
+              <p>Muestra quién soy, cómo trabajo y qué servicios tengo visibles.</p>
             </article>
             <article class="info-card">
               <span class="step-badge">03</span>
-              <h3>English Classes</h3>
-              <p>Explica los cursos, temarios, metodología, precios y contacto directo.</p>
+              <h3>Servicio específico</h3>
+              <p>Abre la landing de inglés o la página de contabilidad según tu necesidad.</p>
             </article>
           </div>
         </div>

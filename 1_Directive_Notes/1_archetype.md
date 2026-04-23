@@ -1,10 +1,10 @@
 ---
 name: 1_archetype
-description: Visión objetivo directiva para construir AgendaExperto.com como marketplace de perfiles profesionales accesibles, con English Classes de Orlando Lazos como primer servicio activo.
+description: Visión objetivo directiva para construir AgendaExperto.com como marketplace de perfiles profesionales accesibles, con Orlando Lazos como primer perfil activo y servicios visibles de inglés y contabilidad.
 independence: Encapsulated
 ---
 
-Este arquetipo define la visión objetivo del proyecto como sitio público de `AgendaExperto.com`, un marketplace ligero para conectar visitantes con profesionales y sus servicios. Dentro de esa estructura, `English Classes` de Orlando Lazos funciona hoy como el primer perfil y servicio activo. El repositorio sigue sirviendo para organizar la oferta, los materiales y la operación reusable que sostienen esa presencia pública.
+Este arquetipo define la visión objetivo del proyecto como sitio público de `AgendaExperto.com`, un marketplace ligero para conectar visitantes con profesionales y sus servicios. Dentro de esa estructura, Orlando Lazos funciona hoy como el primer perfil activo, con `Clases particulares de inglés` y `Servicios contables` como servicios visibles. El repositorio sigue sirviendo para organizar la oferta, los materiales y la operación reusable que sostienen esa presencia pública.
 
 #   Principles of cohesion and coupling / scope
 
@@ -12,7 +12,7 @@ Este arquetipo define la visión objetivo del proyecto como sitio público de `A
 
 - Definir la visión general del marketplace y de la documentación reusable que lo va a sostener.
 - Describir cómo conviven la marca pública `AgendaExperto.com`, los perfiles profesionales y los servicios particulares dentro del mismo proyecto.
-- Guiar la construcción del primer servicio activo, `English Classes`, sin perder de vista que el sitio debe escalar a más profesionales.
+- Guiar la construcción del primer perfil activo de Orlando Lazos, con varios servicios visibles, sin perder de vista que el sitio debe escalar a más profesionales.
 - Servir como marco para decisiones futuras de branding, marketing, metodología, materiales de clase, producto y operación comercial.
 
 ##    Coupling
@@ -27,7 +27,7 @@ Este arquetipo define la visión objetivo del proyecto como sitio público de `A
 - `AgendaExperto.com` quiere funcionar como la portada pública para encontrar profesionales, revisar su perfil y entrar a sus servicios sin fricción.
 - La página raíz pública seguirá usando `index.html` como entrada principal del dominio `agendexperto.com`; no hace falta renombrar ese archivo para expresar la marca.
 - A corto plazo, la plataforma funciona como escaparate web accesible para perfiles profesionales; a mediano plazo debe poder integrar disponibilidad u horarios visibles por profesional.
-- El primer caso activo del marketplace es Orlando Lazos, cuyo servicio visible hoy es `English Classes`.
+- El primer caso activo del marketplace es Orlando Lazos, cuyo perfil ya puede exponer más de un servicio visible.
 - El posicionamiento comercial del sitio debe apoyarse en claridad, facilidad de contacto, precios comprensibles y presentación profesional de cada servicio.
 
 #   Marketplace architecture
@@ -52,7 +52,7 @@ Este arquetipo define la visión objetivo del proyecto como sitio público de `A
 
 #   Current flagship service
 
-- `English Classes` debe funcionar como la demostración más completa del modelo de perfil más servicio dentro de `AgendaExperto.com`.
+- `Clases particulares de inglés` debe funcionar como la demostración más completa del modelo de perfil más servicio dentro de `AgendaExperto.com`.
 - La propuesta se impartirá por videollamada, con preferencia operativa por `Zoom` y con `Google Meet` o `Microsoft Teams` como alternativas cuando convenga.
 - El servicio estará orientado principalmente a alumnos hispanohablantes que necesitan aprender inglés para estudiar, trabajar o desenvolverse mejor en contextos bilingües.
 - El posicionamiento comercial se apoyará en la experiencia real de Orlando como profesor de inglés y como profesional con experiencia en ambientes o roles bilingües.
@@ -66,11 +66,12 @@ Este arquetipo define la visión objetivo del proyecto como sitio público de `A
 
 #   Immediate strategic priority
 
-- La prioridad actual es consolidar una primera presencia pública coherente para `AgendaExperto.com` mientras se sigue formalizando el curso maestro de `English Classes`.
+- La prioridad actual es consolidar una primera presencia pública coherente para `AgendaExperto.com` mientras se sigue formalizando el curso maestro de `Clases particulares de inglés` y se hace visible la segunda línea de `Servicios contables`.
 - Esa presencia pública debe dejar claro:
   - que `AgendaExperto.com` es el marketplace;
   - que Orlando Lazos es el primer perfil profesional activo;
-  - que `English Classes` es el servicio visible más desarrollado.
+  - que `Clases particulares de inglés` es el servicio visible más desarrollado;
+  - que `Servicios contables` ya existe como segunda línea pública del perfil.
 - En paralelo, el proyecto debe seguir formalizando una fuente curricular de alta calidad para sostener el curso maestro y convertirlo en una propuesta cada vez más precisa de clases.
 - La nota `7_curriculum-source-selection.md` registra la evaluación inicial de candidatos y la recomendación de fuente base.
 - La nota `7,2_book-sources.md` concentra la búsqueda específica de libros fuente para usar como columna vertebral del curso maestro.

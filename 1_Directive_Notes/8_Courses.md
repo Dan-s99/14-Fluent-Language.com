@@ -571,6 +571,26 @@ La última clase cierra el módulo con una conversación más libre o semiestruc
 
 Este curso, por tanto, no solo acompaña la producción de un texto, sino que convierte ese trabajo en un proyecto completo de expresión escrita, exposición oral y conversación guiada.
 
+##    Evaluación de nivel (examen de colocación)
+
+Cuando un alumno ya trae algo de inglés y no conviene meterlo por default a una ruta completa, se le puede aplicar una evaluación de nivel con examen de colocación. El objetivo de esta evaluación es ubicar mejor su punto de partida real y decidir si conviene reducir el temario, omitir bloques completos o recomendarle otra ruta de la academia.
+
+La evaluación de nivel tiene un costo de **$300 MXN**. Se compone de dos partes:
+- un examen escrito que el alumno responde por su cuenta, sin asistencia
+- una evaluación oral de aproximadamente **30 minutos**, posterior a la revisión del examen
+
+Después de revisar ambas partes, el profesor puede recomendar:
+- qué curso le conviene más al alumno
+- desde qué bloque debería empezar
+- qué partes del temario puede omitir o reducir
+
+Esta evaluación sirve especialmente para:
+- alumnos que ya estudiaron inglés antes
+- personas que traen base fragmentada y no quieren empezar desde cero
+- estudiantes que buscan una ruta más corta o más enfocada
+
+La evaluación de nivel no sustituye al curso; sirve para diagnosticar mejor y ajustar la propuesta de estudio antes de arrancar.
+
 ##    Metodología
 
 ###     Clases asistidas por IA
